@@ -3,6 +3,38 @@
 # Awesome Papers
 ## 💡 Complex Visual Reasoning Tasks
 
+- [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
+![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)
+
+- [**HuggingGPT**](https://arxiv.org/pdf/2303.17580.pdf) - HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face [Github](https://github.com/microsoft/JARVIS)
+![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)
+
+- [**Chameleon**](https://arxiv.org/pdf/2304.09842.pdf) - Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [Github](https://github.com/lupantech/chameleon-llm)
+![Star](https://img.shields.io/github/stars/lupantech/chameleon-llm.svg?style=social&label=Star)
+
+- [**Visual ChatGPT**](https://arxiv.org/pdf/2303.04671.pdf) - Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [Github](https://github.com/moymix/TaskMatrix)
+![Star](https://img.shields.io/github/stars/moymix/TaskMatrix.svg?style=social&label=Star)
+
+- [**AssistGPT**](https://arxiv.org/pdf/2306.08640.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
+![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
+
+- [**LLaVA-Plus**](https://arxiv.org/pdf/2306.08640.pdf) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills [Github](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase)
+![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Plus-Codebase.svg?style=social&label=Star)
+
+- [**GPT4Tools**](https://arxiv.org/pdf/2305.18752.pdf) - GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [Github](https://github.com/AILab-CVC/GPT4Tools)
+![Star](https://img.shields.io/github/stars/AILab-CVC/GPT4Tools.svg?style=social&label=Star)
+
+- [**MLLM-Tool**](https://arxiv.org/pdf/2401.10727.pdf) - MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning [Github](https://github.com/MLLM-Tool/MLLM-Tool)
+![Star](https://img.shields.io/github/stars/MLLM-Tool/MLLM-Tool.svg?style=social&label=Star)
+
+- [**M3**](https://arxiv.org/pdf/2310.08446.pdf) - Towards Robust Multi-Modal Reasoning via Model Selection [Github](https://github.com/LINs-lab/M3)
+![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
+
+- [**VisProgram**](https://arxiv.org/pdf/2211.11559.pdf) - Visual Programming: Compositional visual reasoning without training
+
+- [**DDCoT**](https://arxiv.org/pdf/2310.16436.pdf) - DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [Github](https://github.com/SooLab/DDCOT)
+![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star)
+
 ## 🎵 Audio Editing & Generation
 
 - [**Copilot**](https://arxiv.org/pdf/2310.12404.pdf) - Loop Copilot: Conducting AI Ensembles for Music
@@ -21,7 +53,7 @@ Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 
 ## 🤖 Embodied AI & Robotics
 
-- [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARV IS-1: Open-world Multi-task Agents with
+- [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARVIS-1: Open-world Multi-task Agents with
 Memory-Augmented Multimodal Language Models [Github](https://github.com/CraftJarvis/JARVIS-1)
 ![Star](https://img.shields.io/github/stars/CraftJarvis/JARVIS-1.svg?style=social&label=Star)
 
