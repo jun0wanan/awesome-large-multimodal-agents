@@ -80,6 +80,13 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 
 ## 🎨 Visual Generation & Editing
+- [**LLaVA-Interactive**](https://arxiv.org/pdf/2311.00571.pdf) - 
+LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
+![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star)
+
+- [**MM-REACT**](https://arxiv.org/pdf/2303.11381.pdf) - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Github](https://github.com/microsoft/MM-REACT)
+![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)
+
 ## 🎥 Video Understanding
 
 - [**DoraemonGPT**](https://arxiv.org/pdf/2401.08392.pdf) - DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models [Github](https://github.com/cooelf/Auto-UI)
