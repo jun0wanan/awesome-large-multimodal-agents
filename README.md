@@ -3,6 +3,7 @@
 <img src="./img/app.png" width="96%" height="96%">
 
 <font size=5><center><b> Table of Contents </b> </center></font>
+- [Awesome Benchmark](#awesome-benchmark)
 - [Awesome Papers](#Awesome-papers)
   - [Complex Visual Reasoning Tasks](#-complex-visual-reasoning-tasks)
   - [Audio Editing & Generation](#-audio-editing--generation)
@@ -11,11 +12,19 @@
   - [Video Understanding](#-video-understanding)
   - [Visual Generation & Editing](#-visual-generation--editing)
   - [Game-developer](#-game-developer)
-
-    
-- [Awesome Benchmark](#awesome-datasets)
  
 ---
+
+# Awesome Benchmark
+
+- [**SmartPlay**](https://arxiv.org/pdf/2310.01557.pdf) - SmartPlay: A Benchmark for LLMs as Intelligent Agents [Github](https://github.com/microsoft/SmartPlay)
+![Star](https://img.shields.io/github/stars/microsoft/SmartPlay.svg?style=social&label=Star)
+
+- [**GAIA**](https://arxiv.org/pdf/2311.12983.pdf) - GAIA: a benchmark for General AI Assistants [Github](https://huggingface.co/gaia-benchmark)
+
+
+- [**VisualWebArena**](https://arxiv.org/pdf/2401.13649.pdf) - VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [Github](https://github.com/web-arena-x/visualwebarena)
+![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
 
 # Awesome Papers
 ## 💡 Complex Visual Reasoning Tasks
@@ -158,16 +167,7 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 ## 🎮 Game-developer
 
 
-# Awesome Benchmark
 
-- [**SmartPlay**](https://arxiv.org/pdf/2310.01557.pdf) - SmartPlay: A Benchmark for LLMs as Intelligent Agents [Github](https://github.com/microsoft/SmartPlay)
-![Star](https://img.shields.io/github/stars/microsoft/SmartPlay.svg?style=social&label=Star)
-
-- [**GAIA**](https://arxiv.org/pdf/2311.12983.pdf) - GAIA: a benchmark for General AI Assistants [Github](https://huggingface.co/gaia-benchmark)
-
-
-- [**VisualWebArena**](https://arxiv.org/pdf/2401.13649.pdf) - VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [Github](https://github.com/web-arena-x/visualwebarena)
-![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
 
 
 
