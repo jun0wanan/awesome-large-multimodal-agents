@@ -155,7 +155,7 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**ChatVideo**](https://arxiv.org/pdf/2304.14407.pdf) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System [Github](https://www.wangjunke.info/ChatVideo/)
 
 - [**AssistGPT**](https://arxiv.org/pdf/2401.08392.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
-![Star](https://img.shields.io/github/showlab/assistgpt.svg?style=social&label=Star)
+![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
 
 ## 🚗 Autonomous Driving
 
