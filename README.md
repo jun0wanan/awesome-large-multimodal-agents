@@ -51,35 +51,33 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 
 ## 🖱️💻 UI-assistants
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
+- [**AppAgent**](https://arxiv.org/pdf/2312.13771.pdf) - AppAgent: Multimodal Agents as Smartphone Users [Github](https://github.com/mnotgod96/AppAgent)
+![Star](https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social&label=Star)
+
+- [**DroidBot-GPT**](https://arxiv.org/pdf/2304.07061.pdf) - DroidBot-GPT: GPT-powered UI Automation for Android [Github](https://github.com/MobileLLM/DroidBot-GPT)
+![Star](https://img.shields.io/github/stars/MobileLLM/DroidBot-GPT.svg?style=social&label=Star)
+
+- [**WebWISE**](https://arxiv.org/pdf/2310.16042.pdf) - WebWISE: Web Interface Control and Sequential Exploration with Large Language Models [Github](https://github.com/stevenyangyj/Emma-Alfworld)
 ![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
 
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
+- [**MemoDroid**](https://arxiv.org/pdf/2312.03003.pdf) - Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation 
 
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
+- [**ASSISTGUI**](https://arxiv.org/pdf/2312.13108.pdf) - ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation [Github](https://github.com/showlab/assistgui)
+![Star](https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star)
 
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
+- [**MM-Navigator**](https://arxiv.org/pdf/2311.07562.pdf) - GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation [Github](https://github.com/zzxslp/MM-Navigator)
+![Star](https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social&label=Star)
 
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
+- [**AutoDroid**](https://arxiv.org/pdf/2308.15272.pdf) - Empowering LLM to use Smartphone for Intelligent Task Automation [Github](https://github.com/MobileLLM/AutoDroid)
+![Star](https://img.shields.io/github/stars/MobileLLM/AutoDroid.svg?style=social&label=Star)
 
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
+- [**GPT-4V-Act**](https://github.com/ddupont808/GPT-4V-Act) - GPT-4V-Act: Chromium Copilot [Github](https://github.com/ddupont808/GPT-4V-Act)
+![Star](https://img.shields.io/github/stars/ddupont808/GPT-4V-Act.svg?style=social&label=Star)
 
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
+- [**Auto-UI**](https://arxiv.org/pdf/2309.11436.pdf) - You Only Look at Screens: Multimodal Chain-of-Action Agents [Github](https://github.com/cooelf/Auto-UI)
+![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
 
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
 
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
-
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
 
 ## 🎨 Visual Generation & Editing
 ## 🎥 Video Understanding
