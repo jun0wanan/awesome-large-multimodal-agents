@@ -81,6 +81,15 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 ## 🎨 Visual Generation & Editing
 ## 🎥 Video Understanding
+
+- [**DoraemonGPT**](https://arxiv.org/pdf/2401.08392.pdf) - DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models [Github](https://github.com/cooelf/Auto-UI)
+![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
+
+- [**ChatVideo**](https://arxiv.org/pdf/2304.14407.pdf) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System [Github](https://www.wangjunke.info/ChatVideo/)
+
+- [**AssistGPT**](https://arxiv.org/pdf/2401.08392.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
+![Star](https://img.shields.io/github/showlab/assistgpt.svg?style=social&label=Star)
+
 ## 🚗 Autonomous Driving
 ## 🎮 Game-developer
 
