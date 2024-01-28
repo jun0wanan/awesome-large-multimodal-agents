@@ -18,7 +18,7 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 ![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
 
-## Embodied AI & Robotics
+## 🤖 Embodied AI & Robotics
 
 - [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARV IS-1: Open-world Multi-task Agents with
 Memory-Augmented Multimodal Language Models [Github](https://github.com/CraftJarvis/JARVIS-1)
