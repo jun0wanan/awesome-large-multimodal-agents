@@ -7,7 +7,7 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 ![Star](https://img.shields.io/github/stars/ldzhangyx/loop-copilot.svg?style=social&label=Star)
 
 - [**MusicAgent**](https://arxiv.org/pdf/2310.11954.pdf) - MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models [Github](https://github.com/microsoft/muzic/tree/main)
-![Star](https://img.shields.io/github/stars/microsoft/muzic/tree/main.svg?style=social&label=Star)
+![Star](https://img.shields.io/github/stars/microsoft/muzic.svg?style=social&label=Star)
 
 - [**WavJourney**](https://arxiv.org/pdf/2310.12404.pdf) - WavJourney: Compositional Audio Creation with Large Language Models [Github](https://github.com/Audio-AGI/WavJourney)
 ![Star](https://img.shields.io/github/stars/Audio-AGI/WavJourney.svg?style=social&label=Star)
