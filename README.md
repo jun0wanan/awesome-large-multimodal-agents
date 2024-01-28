@@ -11,7 +11,7 @@
 ---
 
 # Awesome Papers
-## 💡 Complex Visual Reasoning Tasks
+💡 ##  Complex Visual Reasoning Tasks
 
 - [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
 ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)
