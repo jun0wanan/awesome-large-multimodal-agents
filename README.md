@@ -2,6 +2,14 @@
 
 <img src="./img/app.png" width="96%" height="96%">
 
+<font size=5><center><b> Table of Contents </b> </center></font>
+- [Awesome Papers](#Awesome-papers)
+  - [Complex Visual Reasoning Tasks](#Complex-Visual-Reasoning-Tasks)
+
+- [Awesome Datasets](#awesome-datasets)
+  - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
+---
+
 # Awesome Papers
 ## 💡 Complex Visual Reasoning Tasks
 
