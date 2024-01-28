@@ -1,5 +1,7 @@
 # Awesome-Multimodal-agents
 
+<img src="./img/app.png" width="96%" height="96%">
+
 # Awesome Papers
 ## 💡 Complex Visual Reasoning Tasks
 
