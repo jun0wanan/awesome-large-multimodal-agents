@@ -4,14 +4,14 @@
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#Awesome-papers)
-  - [Complex Visual Reasoning Tasks](#💡-Complex-Visual-Reasoning-Tasks)
+  - [Complex Visual Reasoning Tasks](#-complex-visual-reasoning-tasks)
   - [Audio Editing & Generation](#Audio-Editing-&-Generation)
 - [Awesome Datasets](#awesome-datasets)
   - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
 ---
 
 # Awesome Papers
-##  Complex Visual Reasoning Tasks
+## 💡 Complex Visual Reasoning Tasks
 
 - [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
 ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)
