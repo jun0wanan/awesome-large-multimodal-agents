@@ -5,9 +5,16 @@
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#Awesome-papers)
   - [Complex Visual Reasoning Tasks](#-complex-visual-reasoning-tasks)
-  - [Audio Editing & Generation](#Audio-Editing-&-Generation)
-- [Awesome Datasets](#awesome-datasets)
-  - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
+  - [Audio Editing & Generation](#-audio-editing--generation)
+  - [Embodied AI & Robotics](#-embodied-ai--robotics)
+  - [UI-assistants](#-ui-assistants)
+  - [Video Understanding](#-video-understanding)
+  - [Visual Generation & Editing](#-visual-generation--editing)
+  - [Game-developer](#-game-developer)
+
+    
+- [Awesome Benchmark](#awesome-datasets)
+ 
 ---
 
 # Awesome Papers
