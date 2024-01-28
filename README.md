@@ -5,7 +5,7 @@
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Papers](#Awesome-papers)
   - [Complex Visual Reasoning Tasks](#Complex-Visual-Reasoning-Tasks)
-
+  - [Audio Editing & Generation](#Audio-Editing-&-Generation)
 - [Awesome Datasets](#awesome-datasets)
   - [Datasets of Pre-Training for Alignment](#datasets-of-pre-training-for-alignment)
 ---
