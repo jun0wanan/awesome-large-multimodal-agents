@@ -2,7 +2,7 @@
 
 # Awesome Papers
 
-## 🎧 Audio Editing & Generation
+## 🎵 Audio Editing & Generation
 
 - [**Copilot**](https://arxiv.org/pdf/2310.12404.pdf) - Loop Copilot: Conducting AI Ensembles for Music
 Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copilot/)
