@@ -1,10 +1,9 @@
-# Awesome-Multimodal-agents
+# Awesome Large Multimodal Agents
 
 <img src="./img/app.png" width="96%" height="96%">
 
 <font size=5><center><b> Table of Contents </b> </center></font>
-- [Awesome Benchmark](#awesome-benchmark)
-- [Awesome Papers](#Awesome-papers)
+- [Papers](#Apapers)
   - [Application](#application)
     - [Complex Visual Reasoning Tasks](#-complex-visual-reasoning-tasks)
     - [Audio Editing & Generation](#-audio-editing--generation)
@@ -19,23 +18,11 @@
     - [Type Ⅲ](#Type-Ⅲ)
     - [Type Ⅳ](#Type-Ⅳ)
     - [Multi-Agent](#Multi-Agent)
+- [Benchmark](#benchmark)
 ---
 
-# Awesome Benchmark
-
-- [**SmartPlay**](https://arxiv.org/pdf/2310.01557.pdf) - SmartPlay: A Benchmark for LLMs as Intelligent Agents [Github](https://github.com/microsoft/SmartPlay)
-![Star](https://img.shields.io/github/stars/microsoft/SmartPlay.svg?style=social&label=Star)
-
-
-- [**VisualWebArena**](https://arxiv.org/pdf/2401.13649.pdf) - VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [Github](https://github.com/web-arena-x/visualwebarena)
-![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
-
-- [**GAIA**](https://arxiv.org/pdf/2311.12983.pdf) - GAIA: a benchmark for General AI Assistants [Github](https://huggingface.co/gaia-benchmark)
-
-
-
-# Awesome Papers
-### Application
+# Papers
+## Application
 ### 💡 Complex Visual Reasoning Tasks
 
 - [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
@@ -320,3 +307,13 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 - [**Avis**](https://arxiv.org/pdf/2306.08129.pdf) - avis: autonomous visual information seeking with large language model agent
 
   
+# Benchmark
+
+- [**SmartPlay**](https://arxiv.org/pdf/2310.01557.pdf) - SmartPlay: A Benchmark for LLMs as Intelligent Agents [Github](https://github.com/microsoft/SmartPlay)
+![Star](https://img.shields.io/github/stars/microsoft/SmartPlay.svg?style=social&label=Star)
+
+
+- [**VisualWebArena**](https://arxiv.org/pdf/2401.13649.pdf) - VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [Github](https://github.com/web-arena-x/visualwebarena)
+![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
+
+- [**GAIA**](https://arxiv.org/pdf/2311.12983.pdf) - GAIA: a benchmark for General AI Assistants [Github](https://huggingface.co/gaia-benchmark)
