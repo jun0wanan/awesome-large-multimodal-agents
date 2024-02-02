@@ -26,6 +26,9 @@ Last update: 02/01/2024
 ## Papers
 
 ### Taxonomy
+
+<img src="./img/table.png" width="96%" height="96%">
+
 #### Type Ⅰ
 
 
