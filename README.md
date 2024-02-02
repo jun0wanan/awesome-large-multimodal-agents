@@ -220,6 +220,12 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**MusicAgent**](https://arxiv.org/pdf/2310.11954.pdf) - MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models [Github](https://github.com/microsoft/muzic/tree/main)
 ![Star](https://img.shields.io/github/stars/microsoft/muzic.svg?style=social&label=Star)
 
+
+- [**AudioGPT**](https://arxiv.org/pdf/2304.12995.pdf) - AudioGPT: Understanding and Generating Speech,
+Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
+![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
+
+
 - [**AudioGPT**](https://arxiv.org/pdf/2304.12995.pdf) - AudioGPT: Understanding and Generating Speech,
 Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 
@@ -232,6 +238,9 @@ Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 - [**DEPS**](https://arxiv.org/pdf/2302.01560.pdf) - Describe, Explain, Plan and Select:
 Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents [Github](https://github.com/CraftJarvis/MC-Planner)
 ![Star](https://img.shields.io/github/stars/CraftJarvis/MC-Planner.svg?style=social&label=Star)
+
+- [**MM-REACT**](https://arxiv.org/pdf/2303.11381.pdf) - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Github](https://github.com/microsoft/MM-REACT)
+![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)
 
 ## Type Ⅱ
 
