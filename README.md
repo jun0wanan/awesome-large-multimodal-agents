@@ -1,5 +1,7 @@
 # Awesome Large Multimodal Agents
 
+Last update: 02/01/2024
+
 <img src="./img/app.png" width="96%" height="96%">
 
 <font size=5><center><b> Table of Contents </b> </center></font>
