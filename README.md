@@ -5,14 +5,15 @@
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Awesome Benchmark](#awesome-benchmark)
 - [Awesome Papers](#Awesome-papers)
-  - [Complex Visual Reasoning Tasks](#-complex-visual-reasoning-tasks)
-  - [Audio Editing & Generation](#-audio-editing--generation)
-  - [Embodied AI & Robotics](#-embodied-ai--robotics)
-  - [UI-assistants](#--ui-assistants)
-  - [Video Understanding](#-video-understanding)
-  - [Visual Generation & Editing](#-visual-generation--editing)
-  - [Game-developer](#-game-developer)
- 
+  - [Application](#application)
+    - [Complex Visual Reasoning Tasks](#-complex-visual-reasoning-tasks)
+    - [Audio Editing & Generation](#-audio-editing--generation)
+    - [Embodied AI & Robotics](#-embodied-ai--robotics)
+    - [UI-assistants](#--ui-assistants)
+    - [Video Understanding](#-video-understanding)
+    - [Visual Generation & Editing](#-visual-generation--editing)
+    - [Game-developer](#-game-developer)
+   
 ---
 
 # Awesome Benchmark
@@ -65,6 +66,10 @@
 ![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star)
 
 - [**Avis**](https://arxiv.org/pdf/2306.08129.pdf) - Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation
+
+- [**CLOVA**](https://arxiv.org/pdf/2312.10908.pdf) - CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update
+
+- [**CRAFT**](https://arxiv.org/pdf/2309.17428.pdf) - CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets
 
 ### 🎵 Audio Editing & Generation
 
@@ -184,6 +189,11 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 # Type
 ## Type Ⅰ
 
+
+- [**CLOVA**](https://arxiv.org/pdf/2312.10908.pdf) - CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update
+
+- [**CRAFT**](https://arxiv.org/pdf/2309.17428.pdf) - CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets
+  
 - [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
 ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)
 
@@ -225,9 +235,6 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 ![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
 
-
-- [**AudioGPT**](https://arxiv.org/pdf/2304.12995.pdf) - AudioGPT: Understanding and Generating Speech,
-Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 
 - [**DroidBot-GPT**](https://arxiv.org/pdf/2304.07061.pdf) - DroidBot-GPT: GPT-powered UI Automation for Android [Github](https://github.com/MobileLLM/DroidBot-GPT)
 ![Star](https://img.shields.io/github/stars/MobileLLM/DroidBot-GPT.svg?style=social&label=Star)
@@ -305,6 +312,6 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 
 - [**MemoDroid**](https://arxiv.org/pdf/2312.03003.pdf) - Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation
 
-- [**Avis**](https://arxiv.org/pdf/2306.08129.pdf) - Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation
+- [**Avis**](https://arxiv.org/pdf/2306.08129.pdf) - avis: autonomous visual information seeking with large language model agent
 
   
