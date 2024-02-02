@@ -2,8 +2,6 @@
 
 Last update: 02/01/2024
 
-<img src="./img/app.png" width="96%" height="96%">
-
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Papers](#Apapers)
   - [Taxonomy](#taxonomy)
@@ -155,6 +153,9 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 
 
 ## Application
+
+<img src="./img/app.png" width="96%" height="96%">
+
 #### 💡 Complex Visual Reasoning Tasks
 
 - [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
