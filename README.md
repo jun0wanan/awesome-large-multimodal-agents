@@ -14,6 +14,11 @@
     - [Visual Generation & Editing](#-visual-generation--editing)
     - [Game-developer](#-game-developer)
   - [Type](#type)
+    - [Type Ⅰ](#Type-Ⅰ)
+    - [Type Ⅱ](#Type-Ⅱ)
+    - [Type Ⅲ](#Type-Ⅲ)
+    - [Type Ⅳ](#Type-Ⅳ)
+    - [Multi-Agent](#Multi-Agent)
 ---
 
 # Awesome Benchmark
