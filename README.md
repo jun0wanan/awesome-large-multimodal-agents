@@ -29,7 +29,8 @@
 
 
 # Awesome Papers
-## 💡 Complex Visual Reasoning Tasks
+### Application
+### 💡 Complex Visual Reasoning Tasks
 
 - [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
 ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)
@@ -63,7 +64,7 @@
 - [**DDCoT**](https://arxiv.org/pdf/2310.16436.pdf) - DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [Github](https://github.com/SooLab/DDCOT)
 ![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star)
 
-## 🎵 Audio Editing & Generation
+### 🎵 Audio Editing & Generation
 
 - [**Copilot**](https://arxiv.org/pdf/2310.12404.pdf) - Loop Copilot: Conducting AI Ensembles for Music
 Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copilot/)
@@ -79,7 +80,7 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 ![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
 
-## 🤖 Embodied AI & Robotics
+### 🤖 Embodied AI & Robotics
 
 - [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARVIS-1: Open-world Multi-task Agents with
 Memory-Augmented Multimodal Language Models [Github](https://github.com/CraftJarvis/JARVIS-1)
@@ -110,7 +111,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 ![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
 
 
-## 🖱️💻 UI-assistants
+### 🖱️💻 UI-assistants
 - [**AppAgent**](https://arxiv.org/pdf/2312.13771.pdf) - AppAgent: Multimodal Agents as Smartphone Users [Github](https://github.com/mnotgod96/AppAgent)
 ![Star](https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social&label=Star)
 
@@ -139,7 +140,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 
 
-## 🎨 Visual Generation & Editing
+### 🎨 Visual Generation & Editing
 - [**LLaVA-Interactive**](https://arxiv.org/pdf/2311.00571.pdf) - 
 LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
 ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star)
@@ -147,7 +148,7 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**MM-REACT**](https://arxiv.org/pdf/2303.11381.pdf) - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Github](https://github.com/microsoft/MM-REACT)
 ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)
 
-## 🎥 Video Understanding
+### 🎥 Video Understanding
 
 - [**DoraemonGPT**](https://arxiv.org/pdf/2401.08392.pdf) - DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models [Github](https://github.com/cooelf/Auto-UI)
 ![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
@@ -157,7 +158,7 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**AssistGPT**](https://arxiv.org/pdf/2401.08392.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
 ![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
 
-## 🚗 Autonomous Driving
+### 🚗 Autonomous Driving
 
 
 - [**GPT-Driver**](https://arxiv.org/pdf/2310.01415.pdf) - GPT-Driver: Learning to Drive with GPT [Github](https://github.com/PointsCoder/GPT-Driver)
@@ -166,7 +167,7 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**DLAH**](https://arxiv.org/pdf/2307.07162.pdf) - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)
 ![Star](https://img.shields.io/github/stars/PJLab-ADG/DriveLikeAHuman.svg?style=social&label=Star)
 
-## 🎮 Game-developer
+### 🎮 Game-developer
 
 - [**SmartPlay**](https://arxiv.org/pdf/2310.01557.pdf) - SmartPlay: A Benchmark for LLMs as Intelligent Agents [Github](https://github.com/microsoft/SmartPlay)
 ![Star](https://img.shields.io/github/stars/microsoft/SmartPlay.svg?style=social&label=Star)
