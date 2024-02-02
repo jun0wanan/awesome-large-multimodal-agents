@@ -12,7 +12,7 @@
     - [Video Understanding](#-video-understanding)
     - [Visual Generation & Editing](#-visual-generation--editing)
     - [Game-developer](#-game-developer)
-  - [Type](#type)
+  - [Taxonomy](#taxonomy)
     - [Type Ⅰ](#Type-Ⅰ)
     - [Type Ⅱ](#Type-Ⅱ)
     - [Type Ⅲ](#Type-Ⅲ)
@@ -178,7 +178,7 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 ![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
 
 
-## Type
+## Taxonomy
 ### Type Ⅰ
 
 
