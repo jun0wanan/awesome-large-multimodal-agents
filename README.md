@@ -13,7 +13,7 @@
     - [Video Understanding](#-video-understanding)
     - [Visual Generation & Editing](#-visual-generation--editing)
     - [Game-developer](#-game-developer)
-   
+  - [Type](#type)
 ---
 
 # Awesome Benchmark
@@ -186,8 +186,8 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 ![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
 
 
-# Type
-## Type Ⅰ
+## Type
+### Type Ⅰ
 
 
 - [**CLOVA**](https://arxiv.org/pdf/2312.10908.pdf) - CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update
@@ -249,7 +249,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 - [**MM-REACT**](https://arxiv.org/pdf/2303.11381.pdf) - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Github](https://github.com/microsoft/MM-REACT)
 ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)
 
-## Type Ⅱ
+### Type Ⅱ
 
  - [**STEVE**](https://arxiv.org/pdf/2311.15209.pdf) - See and Think: Embodied Agent in Virtual Environment [Github](https://github.com/rese1f/STEVE)
 ![Star](https://img.shields.io/github/stars/rese1f/STEVE.svg?style=social&label=Star)
@@ -274,7 +274,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 - [**Auto-UI**](https://arxiv.org/pdf/2309.11436.pdf) - You Only Look at Screens: Multimodal Chain-of-Action Agents [Github](https://github.com/cooelf/Auto-UI)
 ![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
 
-## Type Ⅲ
+### Type Ⅲ
 
 - [**DoraemonGPT**](https://arxiv.org/pdf/2401.08392.pdf) - DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models [Github](https://github.com/cooelf/Auto-UI)
 ![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
@@ -282,7 +282,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 - [**ChatVideo**](https://arxiv.org/pdf/2304.14407.pdf) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System [Github](https://www.wangjunke.info/ChatVideo/)
 
 
-## Type Ⅳ
+### Type Ⅳ
 
 - [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARVIS-1: Open-world Multi-task Agents with
 Memory-Augmented Multimodal Language Models [Github](https://github.com/CraftJarvis/JARVIS-1)
@@ -305,7 +305,7 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 ![Star](https://img.shields.io/github/stars/PJLab-ADG/DriveLikeAHuman.svg?style=social&label=Star)
 
 
-## Multi-Agent
+### Multi-Agent
 
 - [**MP5**](https://arxiv.org/pdf/2312.07472.pdf) - MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception [Github](https://github.com/IranQin/MP5)
 ![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star)
