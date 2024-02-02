@@ -77,10 +77,11 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 
 - [**AudioGPT**](https://arxiv.org/pdf/2304.12995.pdf) - AudioGPT: Understanding and Generating Speech,
 Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
-
 ![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
+
 - [**WavJourney**](https://arxiv.org/pdf/2310.12404.pdf) - WavJourney: Compositional Audio Creation with Large Language Models [Github](https://github.com/Audio-AGI/WavJourney)
 ![Star](https://img.shields.io/github/stars/Audio-AGI/WavJourney.svg?style=social&label=Star)
+
 
 
 
@@ -142,8 +143,6 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 ![Star](https://img.shields.io/github/stars/ddupont808/GPT-4V-Act.svg?style=social&label=Star)
 
 
-
-
 ### 🎨 Visual Generation & Editing
 - [**LLaVA-Interactive**](https://arxiv.org/pdf/2311.00571.pdf) - 
 LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
@@ -170,6 +169,8 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 
 - [**DLAH**](https://arxiv.org/pdf/2307.07162.pdf) - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)
 ![Star](https://img.shields.io/github/stars/PJLab-ADG/DriveLikeAHuman.svg?style=social&label=Star)
+
+
 
 ### 🎮 Game-developer
 
@@ -264,7 +265,31 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 - [**ChatVideo**](https://arxiv.org/pdf/2304.14407.pdf) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System [Github](https://www.wangjunke.info/ChatVideo/)
 
+
 ## Type Ⅳ
+
+- [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARVIS-1: Open-world Multi-task Agents with
+Memory-Augmented Multimodal Language Models [Github](https://github.com/CraftJarvis/JARVIS-1)
+![Star](https://img.shields.io/github/stars/CraftJarvis/JARVIS-1.svg?style=social&label=Star)
+
+- [**AppAgent**](https://arxiv.org/pdf/2312.13771.pdf) - AppAgent: Multimodal Agents as Smartphone Users [Github](https://github.com/mnotgod96/AppAgent)
+![Star](https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social&label=Star)
+
+- [**MM-Navigator**](https://arxiv.org/pdf/2311.07562.pdf) - GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation [Github](https://github.com/zzxslp/MM-Navigator)
+![Star](https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social&label=Star)
+
+- [**Copilot**](https://arxiv.org/pdf/2310.12404.pdf) - Loop Copilot: Conducting AI Ensembles for Music
+Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copilot/)
+![Star](https://img.shields.io/github/stars/ldzhangyx/loop-copilot.svg?style=social&label=Star)
+
+- [**WavJourney**](https://arxiv.org/pdf/2310.12404.pdf) - WavJourney: Compositional Audio Creation with Large Language Models [Github](https://github.com/Audio-AGI/WavJourney)
+![Star](https://img.shields.io/github/stars/Audio-AGI/WavJourney.svg?style=social&label=Star)
+
+- [**DLAH**](https://arxiv.org/pdf/2307.07162.pdf) - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)
+![Star](https://img.shields.io/github/stars/PJLab-ADG/DriveLikeAHuman.svg?style=social&label=Star)
+
+
+## Multi-Agent
 
 - [**MP5**](https://arxiv.org/pdf/2312.07472.pdf) - MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception [Github](https://github.com/IranQin/MP5)
 ![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star)
