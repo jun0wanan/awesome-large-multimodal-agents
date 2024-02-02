@@ -2,7 +2,7 @@
 
 Last update: 02/01/2024
 
-<img src="./images/time.png" width="96%" height="96%">
+<img src="./img/time.png" width="96%" height="96%">
 
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Papers](#Apapers)
