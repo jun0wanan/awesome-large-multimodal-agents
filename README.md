@@ -91,6 +91,11 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 - [**MM-REACT**](https://arxiv.org/pdf/2303.11381.pdf) - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Github](https://github.com/microsoft/MM-REACT)
 ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)
 
+- [**MuLan**](https://arxiv.org/pdf/2402.12741.pdf) - MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion [Github](https://github.com/measure-infinity/mulan-code)
+![Star](https://img.shields.io/github/stars/measure-infinity/mulan-code.svg?style=social&label=Star)
+
+- [**Mobile-Agent**](https://arxiv.org/pdf/2401.16158.pdf) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception [Github](https://github.com/X-PLUG/MobileAgent)![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
+
 #### Type Ⅱ
 
  - [**STEVE**](https://arxiv.org/pdf/2311.15209.pdf) - See and Think: Embodied Agent in Virtual Environment [Github](https://github.com/rese1f/STEVE)
@@ -146,6 +151,8 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 - [**DLAH**](https://arxiv.org/pdf/2307.07162.pdf) - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)
 ![Star](https://img.shields.io/github/stars/PJLab-ADG/DriveLikeAHuman.svg?style=social&label=Star)
 
+- [**Cradle**](https://arxiv.org/pdf/2403.03186.pdf) - Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study [Github](https://github.com/BAAI-Agents/Cradle) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
+
 
 #### Multi-Agent
 
@@ -156,6 +163,7 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 
 - [**Avis**](https://arxiv.org/pdf/2306.08129.pdf) - avis: autonomous visual information seeking with large language model agent
 
+- [**Agent-Smith**](https://arxiv.org/pdf/2402.08567.pdf) - Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast [Github](https://github.com/sail-sg/Agent-Smith)![Star](https://img.shields.io/github/stars/sail-sg/Agent-Smith.svg?style=social&label=Star)
 
 ## Application
 
@@ -200,6 +208,9 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 - [**CLOVA**](https://arxiv.org/pdf/2312.10908.pdf) - CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update
 
 - [**CRAFT**](https://arxiv.org/pdf/2309.17428.pdf) - CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets
+
+- [**MuLan**](https://arxiv.org/pdf/2402.12741.pdf) - MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion [Github](https://github.com/measure-infinity/mulan-code)
+![Star](https://img.shields.io/github/stars/measure-infinity/mulan-code.svg?style=social&label=Star)
 
 #### 🎵 Audio Editing & Generation
 
@@ -249,6 +260,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 - [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
 ![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
 
+- [**MEIA**](https://arxiv.org/abs/2402.00290) - Multimodal Embodied Interactive Agent for Cafe Scene 
 
 #### 🖱️💻 UI-assistants
 - [**AppAgent**](https://arxiv.org/pdf/2312.13771.pdf) - AppAgent: Multimodal Agents as Smartphone Users [Github](https://github.com/mnotgod96/AppAgent)
@@ -277,6 +289,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 - [**GPT-4V-Act**](https://github.com/ddupont808/GPT-4V-Act) - GPT-4V-Act: Chromium Copilot [Github](https://github.com/ddupont808/GPT-4V-Act)
 ![Star](https://img.shields.io/github/stars/ddupont808/GPT-4V-Act.svg?style=social&label=Star)
 
+- [**Mobile-Agent**](https://arxiv.org/pdf/2401.16158.pdf) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception [Github](https://github.com/X-PLUG/MobileAgent)![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
 
 #### 🎨 Visual Generation & Editing
 - [**LLaVA-Interactive**](https://arxiv.org/pdf/2311.00571.pdf) - 
@@ -315,6 +328,11 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**VisualWebArena**](https://arxiv.org/pdf/2401.13649.pdf) - VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [Github](https://github.com/web-arena-x/visualwebarena)
 ![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
 
+- [**Cradle**](https://arxiv.org/pdf/2403.03186.pdf) - Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study [Github](https://github.com/BAAI-Agents/Cradle) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
+
+#### Other
+
+- [**FinAgent**](https://arxiv.org/pdf/2402.18485.pdf) - A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist 
   
 ## Benchmark
 
@@ -326,3 +344,5 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 ![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
 
 - [**GAIA**](https://arxiv.org/pdf/2311.12983.pdf) - GAIA: a benchmark for General AI Assistants [Github](https://huggingface.co/gaia-benchmark)
+
+- [**OmniACT**](https://arxiv.org/pdf/2402.17553.pdf) - OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist 
