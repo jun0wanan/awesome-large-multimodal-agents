@@ -1,6 +1,6 @@
 # Awesome Large Multimodal Agents
 
-Last update: 03/07/2024
+Last update: 03/16/2024
 
 <img src="./img/time.png" width="96%" height="96%">
 
@@ -115,8 +115,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 - [**GPT4Tools**](https://arxiv.org/pdf/2305.18752.pdf) - GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [Github](https://github.com/AILab-CVC/GPT4Tools)
 ![Star](https://img.shields.io/github/stars/AILab-CVC/GPT4Tools.svg?style=social&label=Star)
 
-- [**WebWISE**](https://arxiv.org/pdf/2310.16042.pdf) - WebWISE: Web Interface Control and Sequential Exploration with Large Language Models [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
+- [**WebWISE**](https://arxiv.org/pdf/2310.16042.pdf) - WebWISE: Web Interface Control and Sequential Exploration with Large Language Models 
 
 - [**Auto-UI**](https://arxiv.org/pdf/2309.11436.pdf) - You Only Look at Screens: Multimodal Chain-of-Action Agents [Github](https://github.com/cooelf/Auto-UI)
 ![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
@@ -332,7 +331,9 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 
 #### Other
 
-- [**FinAgent**](https://arxiv.org/pdf/2402.18485.pdf) - A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist 
+- [**FinAgent**](https://arxiv.org/pdf/2402.18485.pdf) - A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist
+
+- [**VisionGPT**](https://arxiv.org/pdf/2402.18485.pdf) - VisionGPT: Vision-Language Understanding Agent Using Generalized Multimodal Framework
   
 ## Benchmark
 
