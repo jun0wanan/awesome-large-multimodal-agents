@@ -127,6 +127,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 - [**ChatVideo**](https://arxiv.org/pdf/2304.14407.pdf) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System [Github](https://www.wangjunke.info/ChatVideo/)
 
+- [**VideoAgent**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
 
 #### Type Ⅳ
 
@@ -306,6 +307,8 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 
 - [**AssistGPT**](https://arxiv.org/pdf/2401.08392.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
 ![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
+
+- [**VideoAgent**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
 
 #### 🚗 Autonomous Driving
 
