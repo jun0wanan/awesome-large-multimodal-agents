@@ -1,6 +1,6 @@
 # Awesome Large Multimodal Agents
 
-Last update: 03/16/2024
+Last update: 04/30/2024
 
 <img src="./img/time.png" width="96%" height="96%">
 
