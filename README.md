@@ -127,6 +127,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 - [**ChatVideo**](https://arxiv.org/pdf/2304.14407.pdf) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System [Github](https://www.wangjunke.info/ChatVideo/)
 
+- [**VideoAgent-M**](https://arxiv.org/pdf/2403.11481) - VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Github](https://videoagent.github.io/)
 
 #### Type Ⅳ
 
@@ -151,6 +152,7 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 ![Star](https://img.shields.io/github/stars/PJLab-ADG/DriveLikeAHuman.svg?style=social&label=Star)
 
 - [**Cradle**](https://arxiv.org/pdf/2403.03186.pdf) - Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study [Github](https://github.com/BAAI-Agents/Cradle) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
+
 
 
 #### Multi-Agent
@@ -306,6 +308,12 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 
 - [**AssistGPT**](https://arxiv.org/pdf/2401.08392.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
 ![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
+
+- [**VideoAgent-M**](https://arxiv.org/pdf/2403.11481) - VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Github](https://videoagent.github.io/)
+
+- [**VideoAgent-L**](https://arxiv.org/pdf/2403.10517) - VideoAgent: Long-form Video Understanding with Large Language Model as Agent [Github](https://wxh1996.github.io/VideoAgent-Website/)
+
+
 
 #### 🚗 Autonomous Driving
 
