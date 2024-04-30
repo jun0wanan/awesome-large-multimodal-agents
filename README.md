@@ -309,7 +309,7 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 ![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
 
 - [**VideoAgent**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
-- 
+
 - [**VideoAgent-L**](https://arxiv.org/pdf/2403.10517) - VideoAgent: Long-form Video Understanding with Large Language Model as Agent [Project page](https://wxh1996.github.io/VideoAgent-Website/)
 
 
