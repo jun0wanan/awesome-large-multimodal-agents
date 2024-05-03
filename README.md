@@ -1,6 +1,6 @@
 # Awesome Large Multimodal Agents
 
-Last update: 03/16/2024
+Last update: 04/30/2024
 
 <img src="./img/time.png" width="96%" height="96%">
 
@@ -153,6 +153,7 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 
 - [**Cradle**](https://arxiv.org/pdf/2403.03186.pdf) - Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study [Github](https://github.com/BAAI-Agents/Cradle) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
 
+- [**VideoAgent**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
 
 #### Multi-Agent
 
@@ -309,6 +310,8 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 ![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
 
 - [**VideoAgent**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
+
+- [**VideoAgent-L**](https://arxiv.org/pdf/2403.10517) - VideoAgent: Long-form Video Understanding with Large Language Model as Agent [Project page](https://wxh1996.github.io/VideoAgent-Website/)
 
 #### 🚗 Autonomous Driving
 
