@@ -96,6 +96,10 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 - [**Mobile-Agent**](https://arxiv.org/pdf/2401.16158.pdf) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception [Github](https://github.com/X-PLUG/MobileAgent)![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
 
+- [**SeeAct**](https://arxiv.org/pdf/2401.01614) - GPT-4V(ision) is a Generalist Web Agent, if Grounded
+ [Github]("https://github.com/OSU-NLP-Group/SeeAct")![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social)
+
+
 #### Type Ⅱ
 
  - [**STEVE**](https://arxiv.org/pdf/2311.15209.pdf) - See and Think: Embodied Agent in Virtual Environment [Github](https://github.com/rese1f/STEVE)
@@ -299,6 +303,9 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**MM-REACT**](https://arxiv.org/pdf/2303.11381.pdf) - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Github](https://github.com/microsoft/MM-REACT)
 ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)
 
+- [**SeeAct**](https://arxiv.org/pdf/2401.01614) - GPT-4V(ision) is a Generalist Web Agent, if Grounded
+ [Github]("https://github.com/OSU-NLP-Group/SeeAct")![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social)
+
 #### 🎥 Video Understanding
 
 - [**DoraemonGPT**](https://arxiv.org/pdf/2401.08392.pdf) - DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models [Github](https://github.com/cooelf/Auto-UI)
@@ -345,10 +352,14 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**SmartPlay**](https://arxiv.org/pdf/2310.01557.pdf) - SmartPlay: A Benchmark for LLMs as Intelligent Agents [Github](https://github.com/microsoft/SmartPlay)
 ![Star](https://img.shields.io/github/stars/microsoft/SmartPlay.svg?style=social&label=Star)
 
-
 - [**VisualWebArena**](https://arxiv.org/pdf/2401.13649.pdf) - VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [Github](https://github.com/web-arena-x/visualwebarena)
 ![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
+
+- [**Mind2Web**](https://arxiv.org/pdf/2306.06070) - MIND2WEB: Towards a Generalist Agent for the Web [Github](https://github.com/OSU-NLP-Group/Mind2Web)
+![Star](https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web?style=social&label=Mind2Web)
 
 - [**GAIA**](https://arxiv.org/pdf/2311.12983.pdf) - GAIA: a benchmark for General AI Assistants [Github](https://huggingface.co/gaia-benchmark)
 
 - [**OmniACT**](https://arxiv.org/pdf/2402.17553.pdf) - OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist 
+- 
+
