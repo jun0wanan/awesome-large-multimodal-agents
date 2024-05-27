@@ -295,6 +295,8 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 - [**Mobile-Agent**](https://arxiv.org/pdf/2401.16158.pdf) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception [Github](https://github.com/X-PLUG/MobileAgent)![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
 
+- [**OpenAdapt**]- OpenAdapt: AI-First Process Automation with Large Multimodal Models [Github](https://github.com/OpenAdaptAI/OpenAdapt)![Star](https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt.svg?style=social&label=Star)
+
 #### 🎨 Visual Generation & Editing
 - [**LLaVA-Interactive**](https://arxiv.org/pdf/2311.00571.pdf) - 
 LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
