@@ -170,10 +170,10 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 
 - [**Agent-Smith**](https://arxiv.org/pdf/2402.08567.pdf) - Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast [Github](https://github.com/sail-sg/Agent-Smith)![Star](https://img.shields.io/github/stars/sail-sg/Agent-Smith.svg?style=social&label=Star)
 
-- [**GenAI**](https://arxiv.org/pdf/2409.11261) - The Art of Storytelling: Multi-Agent Generative AI for Dynamic
+- [**GenAI**](https://arxiv.org/pdf/2409.11261.pdf) - The Art of Storytelling: Multi-Agent Generative AI for Dynamic
 Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling)![Star](https://img.shields.io/github.com/ulrs0/The-Art-of-Story-Telling.svg?style=social&label=Star)
 
-
+- [**GenAI**](https://arxiv.org/pdf/2409.07246.pdf) - Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs 
 
 ## Application
 
@@ -238,7 +238,8 @@ Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 - [**WavJourney**](https://arxiv.org/pdf/2310.12404.pdf) - WavJourney: Compositional Audio Creation with Large Language Models [Github](https://github.com/Audio-AGI/WavJourney)
 ![Star](https://img.shields.io/github/stars/Audio-AGI/WavJourney.svg?style=social&label=Star)
 
-
+- [**OpenOmni**](https://arxiv.org/abs/2408.03047.pdf) - OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents [Github](https://github.com/AI4WA/OpenOmniFramework)
+![Star](https://img.shields.io/github/stars/AI4WA/OpenOmniFramework.svg?style=social&label=Star)
 
 
 #### 🤖 Embodied AI & Robotics
@@ -302,6 +303,9 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 - [**OpenAdapt**]- OpenAdapt: AI-First Process Automation with Large Multimodal Models [Github](https://github.com/OpenAdaptAI/OpenAdapt)![Star](https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt.svg?style=social&label=Star)
 
+- [**EnvDistraction**]- Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions [Github](https://github.com/xbmxb/EnvDistraction)![Star](https://img.shields.io/github/stars/xbmxb/EnvDistraction.svg?style=social&label=Star)
+
+
 #### 🎨 Visual Generation & Editing
 - [**LLaVA-Interactive**](https://arxiv.org/pdf/2311.00571.pdf) - 
 LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
@@ -328,9 +332,16 @@ Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling
 - [**AssistGPT**](https://arxiv.org/pdf/2401.08392.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
 ![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
 
-- [**VideoAgent**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
+- [**VideoAgent-M**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
 
 - [**VideoAgent-L**](https://arxiv.org/pdf/2403.10517) - VideoAgent: Long-form Video Understanding with Large Language Model as Agent [Project page](https://wxh1996.github.io/VideoAgent-Website/)
+
+- [**Kubrick**](https://www.arxiv.org/pdf/2408.10453.pdf) - Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation [Github](https://github.com/gd3kr/BlenderGPT)
+![Star](https://img.shields.io/github/stars/gd3kr/BlenderGPT.svg?style=social&label=Star)
+
+- [**Anim-Director**](https://arxiv.org/pdf/2408.09787.pdf) - Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation [Github](https://github.com/HITsz-TMG/Anim-Director)
+![Star](https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social&label=Star)
+
 
 #### 🚗 Autonomous Driving
 
@@ -363,6 +374,10 @@ Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling
 
 - [**WirelessAgent**](https://arxiv.org/pdf/2409.07964.pdf) - WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks
   
+- [**PhishAgent**](https://arxiv.org/pdf/2408.10738.pdf) - PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection
+
+- [**MMRole**](https://arxiv.org/pdf/2408.04203.pdf) - MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents [Github](https://github.com/YanqiDai/MMRole) ![Star](https://img.shields.io/github/stars/YanqiDai/MMRole.svg?style=social&label=Star)
+  
 ## Benchmark
 
 - [**SmartPlay**](https://arxiv.org/pdf/2310.01557.pdf) - SmartPlay: A Benchmark for LLMs as Intelligent Agents [Github](https://github.com/microsoft/SmartPlay)
@@ -379,7 +394,7 @@ Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling
 - [**OmniACT**](https://arxiv.org/pdf/2402.17553.pdf) - OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist 
 
 - [**DSBench**](https://arxiv.org/pdf/2409.07703.pdf) - DSBENCH: HOW FAR ARE DATA SCIENCE AGENTS TO BECOMING DATA SCIENCE EXPERTS? [Github](https://github.com/LiqiangJing/DSBench)
-![Star](https://img.shields.io/github/LiqiangJing/DSBench.svg?style=social&label=Star)
+![Star](https://img.shields.io/stars/github/LiqiangJing/DSBench.svg?style=social&label=Star)
 
 - [**GTA**](https://arxiv.org/pdf/2407.08713.pdf) - GTA: A Benchmark for General Tool Agents [Github](https://github.com/open-compass/GTA)
-![Star](https://img.shields.io/github/open-compass/GTA.svg?style=social&label=Star)
+![Star](https://img.shields.io/github/stars/open-compass/GTA.svg?style=social&label=Star)
