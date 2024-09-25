@@ -171,9 +171,9 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 - [**Agent-Smith**](https://arxiv.org/pdf/2402.08567.pdf) - Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast [Github](https://github.com/sail-sg/Agent-Smith)![Star](https://img.shields.io/github/stars/sail-sg/Agent-Smith.svg?style=social&label=Star)
 
 - [**GenAI**](https://arxiv.org/pdf/2409.11261.pdf) - The Art of Storytelling: Multi-Agent Generative AI for Dynamic
-Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling)![Star](https://img.shields.io/github.com/ulrs0/The-Art-of-Story-Telling.svg?style=social&label=Star)
+Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling)![Star](https://img.shields.io/github/stars/ulrs0/The-Art-of-Story-Telling.svg?style=social&label=Star)
 
-- [**GenAI**](https://arxiv.org/pdf/2409.07246.pdf) - Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs 
+- [**P2H**](https://arxiv.org/pdf/2409.07246.pdf) - Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs 
 
 ## Application
 
@@ -394,7 +394,7 @@ Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling
 - [**OmniACT**](https://arxiv.org/pdf/2402.17553.pdf) - OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist 
 
 - [**DSBench**](https://arxiv.org/pdf/2409.07703.pdf) - DSBENCH: HOW FAR ARE DATA SCIENCE AGENTS TO BECOMING DATA SCIENCE EXPERTS? [Github](https://github.com/LiqiangJing/DSBench)
-![Star](https://img.shields.io/stars/github/LiqiangJing/DSBench.svg?style=social&label=Star)
+![Star](https://img.shields.io/github/stars/LiqiangJing/DSBench.svg?style=social&label=Star)
 
 - [**GTA**](https://arxiv.org/pdf/2407.08713.pdf) - GTA: A Benchmark for General Tool Agents [Github](https://github.com/open-compass/GTA)
 ![Star](https://img.shields.io/github/stars/open-compass/GTA.svg?style=social&label=Star)
