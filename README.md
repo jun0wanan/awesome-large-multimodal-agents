@@ -1,6 +1,6 @@
 # Awesome Large Multimodal Agents
 
-Last update: 04/30/2024
+Last update: 09/25/2024
 
 <img src="./img/time.png" width="96%" height="96%">
 
@@ -170,6 +170,11 @@ Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copi
 
 - [**Agent-Smith**](https://arxiv.org/pdf/2402.08567.pdf) - Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast [Github](https://github.com/sail-sg/Agent-Smith)![Star](https://img.shields.io/github/stars/sail-sg/Agent-Smith.svg?style=social&label=Star)
 
+- [**GenAI**](https://arxiv.org/pdf/2409.11261) - The Art of Storytelling: Multi-Agent Generative AI for Dynamic
+Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling)![Star](https://img.shields.io/github.com/ulrs0/The-Art-of-Story-Telling.svg?style=social&label=Star)
+
+
+
 ## Application
 
 <img src="./img/app.png" width="96%" height="96%">
@@ -308,6 +313,11 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**SeeAct**](https://arxiv.org/pdf/2401.01614) - GPT-4V(ision) is a Generalist Web Agent, if Grounded
  [Github]("https://github.com/OSU-NLP-Group/SeeAct")![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social)
 
+- [**GenAI**](https://arxiv.org/pdf/2409.11261.pdf) - The Art of Storytelling: Multi-Agent Generative AI for Dynamic
+Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling)![Star](https://img.shields.io/github.com/ulrs0/The-Art-of-Story-Telling.svg?style=social&label=Star)
+
+- [**GenArtist**](https://arxiv.org/pdf/2407.05600.pdf) - GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [Github](https://github.com/zhenyuw16/GenArtist)![Star](https://img.shields.io/github.com/zhenyuw16/GenArtist.svg?style=social&label=Star)
+
 #### 🎥 Video Understanding
 
 - [**DoraemonGPT**](https://arxiv.org/pdf/2401.08392.pdf) - DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models [Github](https://github.com/cooelf/Auto-UI)
@@ -343,11 +353,15 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 
 - [**Cradle**](https://arxiv.org/pdf/2403.03186.pdf) - Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study [Github](https://github.com/BAAI-Agents/Cradle) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
 
+- [**Cradle**](https://arxiv.org/pdf/2403.03186.pdf) - Can AI Prompt Humans? Multimodal Agents Prompt Players’ Game Actions and Show Consequences to Raise Sustainability Awareness [Github](https://github.com/BAAI-Agents/Cradle) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
+
 #### Other
 
 - [**FinAgent**](https://arxiv.org/pdf/2402.18485.pdf) - A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist
 
 - [**VisionGPT**](https://arxiv.org/pdf/2402.18485.pdf) - VisionGPT: Vision-Language Understanding Agent Using Generalized Multimodal Framework
+
+- [**WirelessAgent**](https://arxiv.org/pdf/2409.07964.pdf) - WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks
   
 ## Benchmark
 
@@ -363,5 +377,9 @@ LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation a
 - [**GAIA**](https://arxiv.org/pdf/2311.12983.pdf) - GAIA: a benchmark for General AI Assistants [Github](https://huggingface.co/gaia-benchmark)
 
 - [**OmniACT**](https://arxiv.org/pdf/2402.17553.pdf) - OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist 
-- 
 
+- [**DSBench**](https://arxiv.org/pdf/2409.07703.pdf) - DSBENCH: HOW FAR ARE DATA SCIENCE AGENTS TO BECOMING DATA SCIENCE EXPERTS? [Github](https://github.com/LiqiangJing/DSBench)
+![Star](https://img.shields.io/github/LiqiangJing/DSBench.svg?style=social&label=Star)
+
+- [**GTA**](https://arxiv.org/pdf/2407.08713.pdf) - GTA: A Benchmark for General Tool Agents [Github](https://github.com/open-compass/GTA)
+![Star](https://img.shields.io/github/open-compass/GTA.svg?style=social&label=Star)
