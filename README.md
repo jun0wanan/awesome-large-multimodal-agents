@@ -384,6 +384,7 @@ Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling
 ![Star](https://img.shields.io/github/stars/microsoft/SmartPlay.svg?style=social&label=Star)
 
 - [**VisualWebArena**](https://arxiv.org/pdf/2401.13649.pdf) - VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [Github](https://github.com/web-arena-x/visualwebarena)
+- [**ClawBench**](https://arxiv.org/abs/2604.08523) - ClawBench: Can AI Agents Complete Everyday Online Tasks? Live-website browser-agent benchmark with HTTP-interception + LLM-judge scoring. 283 tasks across 163 live platforms. [Github](https://github.com/reacher-z/ClawBench) [Site](https://claw-bench.com)
 ![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
 
 - [**Mind2Web**](https://arxiv.org/pdf/2306.06070) - MIND2WEB: Towards a Generalist Agent for the Web [Github](https://github.com/OSU-NLP-Group/Mind2Web)
