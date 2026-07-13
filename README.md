@@ -102,6 +102,9 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 #### Type Ⅱ
 
+- [**ViewAgent**](https://arxiv.org/abs/2605.29563) - Planning with the Views via Scene Self-Exploration [Github](https://github.com/mll-lab-nu/ViewAgent) [Project page](https://viewagent.github.io/)
+![Star](https://img.shields.io/github/stars/mll-lab-nu/ViewAgent.svg?style=social&label=Star)
+
  - [**STEVE**](https://arxiv.org/pdf/2311.15209.pdf) - See and Think: Embodied Agent in Virtual Environment [Github](https://github.com/rese1f/STEVE)
 ![Star](https://img.shields.io/github/stars/rese1f/STEVE.svg?style=social&label=Star)
 
@@ -243,6 +246,9 @@ Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 
 
 #### 🤖 Embodied AI & Robotics
+
+- [**ViewAgent**](https://arxiv.org/abs/2605.29563) - Planning with the Views via Scene Self-Exploration [Github](https://github.com/mll-lab-nu/ViewAgent) [Project page](https://viewagent.github.io/)
+![Star](https://img.shields.io/github/stars/mll-lab-nu/ViewAgent.svg?style=social&label=Star)
 
 - [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARVIS-1: Open-world Multi-task Agents with
 Memory-Augmented Multimodal Language Models [Github](https://github.com/CraftJarvis/JARVIS-1)
