@@ -102,7 +102,7 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 #### Type Ⅱ
 
-- [**VAGEN**](https://arxiv.org/abs/2510.16907) - VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents [Github](https://github.com/mll-lab-nu/VAGEN) [Project page](https://vagen-ai.github.io/)
+- [**VAGEN**](https://arxiv.org/abs/2510.16907) - VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents [NeurIPS 2025] [Github](https://github.com/mll-lab-nu/VAGEN) [Project page](https://vagen-ai.github.io/)
 ![Star](https://img.shields.io/github/stars/mll-lab-nu/VAGEN.svg?style=social&label=Star)
 
  - [**STEVE**](https://arxiv.org/pdf/2311.15209.pdf) - See and Think: Embodied Agent in Virtual Environment [Github](https://github.com/rese1f/STEVE)
@@ -247,7 +247,7 @@ Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
 
 #### 🤖 Embodied AI & Robotics
 
-- [**VAGEN**](https://arxiv.org/abs/2510.16907) - VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents [Github](https://github.com/mll-lab-nu/VAGEN) [Project page](https://vagen-ai.github.io/)
+- [**VAGEN**](https://arxiv.org/abs/2510.16907) - VAGEN: Reinforcing World Model Reasoning for Multi-Turn VLM Agents [NeurIPS 2025] [Github](https://github.com/mll-lab-nu/VAGEN) [Project page](https://vagen-ai.github.io/)
 ![Star](https://img.shields.io/github/stars/mll-lab-nu/VAGEN.svg?style=social&label=Star)
 
 - [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARVIS-1: Open-world Multi-task Agents with
