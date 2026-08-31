@@ -102,6 +102,11 @@ Interactive Planning with Large Language Models Enables Open-World Multi-Task Ag
 
 #### Type Ⅱ
 
+- [**DepthAgent**](https://arxiv.org/abs/2605.23281) - DepthAgent: Towards Better Universal Depth Estimation via Sample-wise Expert Selection [Preprint 2026]
+
+- [**FusionAgent**](https://arxiv.org/abs/2603.26908) - FusionAgent: A Multimodal Agent with Dynamic Model Selection for Human Recognition [CVPR 2026] [Github](https://github.com/jiezhu23/FusionAgent_CVPR26) [Project page](https://fusionagent.github.io/)
+![Star](https://img.shields.io/github/stars/jiezhu23/FusionAgent_CVPR26.svg?style=social&label=Star)
+
  - [**STEVE**](https://arxiv.org/pdf/2311.15209.pdf) - See and Think: Embodied Agent in Virtual Environment [Github](https://github.com/rese1f/STEVE)
 ![Star](https://img.shields.io/github/stars/rese1f/STEVE.svg?style=social&label=Star)
 
@@ -180,6 +185,11 @@ Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling
 <img src="./img/app.png" width="96%" height="96%">
 
 #### 💡 Complex Visual Reasoning Tasks
+
+- [**DepthAgent**](https://arxiv.org/abs/2605.23281) - DepthAgent: Towards Better Universal Depth Estimation via Sample-wise Expert Selection [Preprint 2026]
+
+- [**FusionAgent**](https://arxiv.org/abs/2603.26908) - FusionAgent: A Multimodal Agent with Dynamic Model Selection for Human Recognition [CVPR 2026] [Github](https://github.com/jiezhu23/FusionAgent_CVPR26) [Project page](https://fusionagent.github.io/)
+![Star](https://img.shields.io/github/stars/jiezhu23/FusionAgent_CVPR26.svg?style=social&label=Star)
 
 - [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
 ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)
