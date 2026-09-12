@@ -5,6 +5,7 @@ Last update: 09/25/2024
 <img src="./img/time.png" width="96%" height="96%">
 
 <font size=5><center><b> Table of Contents </b> </center></font>
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [Papers](#Apapers)
   - [Taxonomy](#taxonomy)
     - [Type Ⅰ](#Type-Ⅰ)
