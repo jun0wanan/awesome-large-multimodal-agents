@@ -342,6 +342,11 @@ Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling
 - [**Anim-Director**](https://arxiv.org/pdf/2408.09787.pdf) - Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation [Github](https://github.com/HITsz-TMG/Anim-Director)
 ![Star](https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social&label=Star)
 
+- [**Video-o3**](https://arxiv.org/abs/2601.23224) - Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning [Github](https://github.com/MCG-NJU/Video-o3)
+
+- [**OneStreamer**](https://arxiv.org/abs/2610.01762) - OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction [Github](https://github.com/MCG-NJU/OneStreamer)
+
+- [**JoyAI-VL-Interaction**](https://arxiv.org/abs/2606.14777) - JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence [Github](https://github.com/jd-opensource/JoyAI-VL-Interaction)
 
 #### 🚗 Autonomous Driving
 
