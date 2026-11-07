@@ -346,6 +346,8 @@ Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling
 
 - [**OneStreamer**](https://arxiv.org/abs/2610.01762) - OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction [Github](https://github.com/MCG-NJU/OneStreamer)
 
+- [**JoyAI-VL-Interaction**](https://arxiv.org/abs/2606.14777) - JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence [Github](https://github.com/jd-opensource/JoyAI-VL-Interaction)
+
 #### 🚗 Autonomous Driving
 
 
